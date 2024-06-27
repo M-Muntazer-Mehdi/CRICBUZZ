@@ -1,7 +1,11 @@
 ## Table of Contents
 
 - [Project Description](#Cricbuzz)
-- [Pages](#Project-Structure)
+- [Structure](#Project-Structure)
+- [Features](#Features)
+- [How to use](#How-to-use)
+- [Documentation](#Documentation)
+- [Contributing](#Contributing)
 
 # Cricbuzz
 This repository contains the Cricbuzz project, which provides an extensive and detailed overview of cricket statistics, live scores, and updates. The project is designed to offer comprehensive insights into cricket matches, player statistics, team performance, and other cricket-related information. This repository includes multiple files, including a detailed report on the working and implementation of the code.
