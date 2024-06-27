@@ -1,0 +1,19 @@
+﻿  cricbuzz.cpp
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(254,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(445,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(1320,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(1326,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(1499,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2100,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2102,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2103,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2105,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2107,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2162,7): warning C4101: 'team1score': unreferenced local variable
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2166,7): warning C4101: 'team2score': unreferenced local variable
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2164,26): warning C4101: 'team2wickets': unreferenced local variable
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2163,10): warning C4101: 'team1over': unreferenced local variable
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2164,7): warning C4101: 'team1wickets': unreferenced local variable
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(2163,26): warning C4101: 'team2over': unreferenced local variable
+C:\Users\Mehdi rizvi\source\repos\Project12\Project12\cricbuzz.cpp(1696): warning C4715: 'Match::winnig': not all control paths return a value
+  Project12.vcxproj -> C:\Users\Mehdi rizvi\source\repos\Project12\Debug\Project12.exe

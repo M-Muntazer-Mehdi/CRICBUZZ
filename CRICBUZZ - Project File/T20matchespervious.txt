@@ -1,0 +1,56 @@
+16-Apr-2018 
+Ravens Redskins
+T20
+149 19.5 7
+144 19.3 10
+Ravens_won_by_3_wickets
+Babar Azam
+
+21-Apr-2018 
+Ravens Saints
+T20
+203 20 5
+60 13.4 10
+Ravens_won_by_143_runs
+Jason Holder
+
+23-Apr-2018 
+Ravens Saints
+T20
+154 16.5 2
+153 20 6
+Ravens_won_by_8_wickets
+Mohammad Hafeez
+
+23-Apr-2018 
+Saints Redskins
+T20
+199 20 4
+127 16.4 10
+Saints_won_by_72_runs
+Asif Ali
+
+12-Apr-2018 
+Ravens Bisons
+T20
+204 20 4
+156 20 6
+Ravens_won_by_48_runs
+Sarfaraz Ahmed
+
+24-Jan-2020 
+Ravens Bisons
+T20
+142 19.3 5
+141 20 5
+Ravens_won_by_5_wickets
+Wahab Riaz
+
+9-Feb-2020 
+Redskins Saints
+T20
+256 50 7
+257 43.2 8
+Saints_won_by_2_wickets
+Fakhar Zaman
+

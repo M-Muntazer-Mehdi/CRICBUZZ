@@ -1,0 +1,40 @@
+Ravens
+Babar Azam
+John Buchanan
+Test
+2502 118 437 142 133
+ODI
+2578 121 879 464 389
+T20I
+8073 285 170 104 61
+
+Redskins
+Imam-ul -Haq
+Bob woolmer
+Test
+2015 120 445 169 152
+ODI
+2477 139 628 386 218
+T20I
+5043 280 131 72 57
+
+Saints
+Waseem Akram
+Gary kirsten
+Test
+2114 78 556 177 201
+ODI
+2222 82 828 404 384
+T20I
+3992 222 130 56 65
+
+Bisons
+Umar Akmal
+John Wright
+Test
+686 67 114 13 73
+ODI
+928 71 532 138 375
+T20I
+3968 223 85 19 64
+

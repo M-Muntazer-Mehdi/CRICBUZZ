@@ -1,0 +1,71 @@
+5-Jan-2018
+Redskins Saints
+Test
+420 2-Innings
+344 2-Innings
+Redskins_won_by_72_runs
+Fabian Allen
+
+17-Jan-2018
+Redskins Saints
+Test
+593 2-Innings
+458 2-Innings
+Redskins_won_by_135_runs
+Imam-ul -Haq 
+
+9-Mar-2018
+Ravens Redskins
+Test
+482 2-Innings
+486 2-Innings
+Redskins_won_by_6_wickets
+Iftikhar Ahmed
+
+23-Mar-2018
+Redskins Bisons
+Test
+684 2-Innings
+362 2-Innings
+Redskins_won_by_322_runs
+Aamer Yamin
+
+1-july-2018
+Ravens Bisons
+Test
+308 2-Innings
+363 2-Innings
+Bisons_won_by_55_runs
+Roston Chase
+
+7-Jun-2018
+Saints Ravens
+Test
+637 2-Innings
+411 2-Innings
+Saints_won_by_226_runs
+Sunil Ambris
+
+17-Jun-2018
+Saints Ravens
+Test
+447 2-Innings
+595 2-Innings
+Match_Drawn
+John Campbell
+
+3-Feb-2019
+Saints Bisons
+Test
+323 2-Innings
+319 2-Innings
+Saints_won_by_10_wickets
+Waseem Akram 
+
+26-Dec-2020
+Redskins Bisons
+Test
+621 2-Innings
+576 2-Innings
+Redskins_won_by_45_runs
+Evin Lewis

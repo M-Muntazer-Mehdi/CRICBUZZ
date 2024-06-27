@@ -1,0 +1,87 @@
+9-Jan-2018
+Ravens Bisons
+OD1
+246 50 9
+247 48.5 2
+Bisons_won_by_8_wickets
+Umar Akmal
+
+9-Jan-2018
+Bisons Ravens
+OD1
+257 50 4
+74 27.2 10
+Bisons_won_by_6_wickets
+Rahkeem Cornwall
+
+15-Jan-2018
+Bisons Saints
+OD1
+170 49 10
+171 28.3 2
+Saints_Won_by_8_wickets
+Darren Bravo
+
+16-Jan-2018
+Ravens Bisons
+OD1
+262 50 8
+263 45.5 5
+Bisons_won_by_5_wickets
+Imran Khan
+
+17-Jan-2018
+Bisons Redskins
+OD1
+290 50 6
+278 48.1 10
+Bisons_Won_by_12_Runs
+Shoiab Akhtar
+
+19-Mar-2018
+Bisons Saints
+OD1
+289 50 7
+290 49 6
+Saints_Won_by_4_wickets
+Ruman Raees
+
+19-Jan-2019
+Ravens Redskins
+OD1
+267 49.1 5
+266 50 2
+Ravens_won_by_5_wickets
+Cris Gayle
+
+27-Jan-2019
+Ravens Redskins
+OD1
+168 31.3 2
+164 41 10
+Ravens_won_by_8_wickets
+Jason Holder
+
+8-May-2019
+Ravens Saints
+OD1
+80 19 2
+0 0 0
+No_results
+Match draw
+ 
+8-May-2020
+Ravens Saints
+OD1
+361 50 7
+373 50 3
+Saints_won_by_12_runs
+Usman Shinwari
+
+4-Mar-2020
+Redskins Bisons
+OD1
+274 48.3 4
+271 50 10
+Redskins_won_by_6_wickets
+Aamer Yamin
