@@ -23,7 +23,7 @@ This repository contains the Cricbuzz project, which provides an extensive and d
 - User-friendly interface for easy navigation and information retrieval.
 
 ## How to Use
-- Clone the repository to your local machine using the following command: `git clone https://github.com/yourusername/cricbuzz.git`
+- Clone the repository to your local machine: `git clone https://github.com/yourusername/cricbuzz.git`
 - Navigate to the project directory: `cd cricbuzz`
 - Compile the C++ source file using a C++ compiler: `g++ -o cricbuzz cricbuzz.cpp`
 - Run the compiled program: `./cricbuzz`
